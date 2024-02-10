@@ -12,21 +12,21 @@ Client Name: John and Joan Doe
 
 Business Name: Tumbling Toddlers
 
-Business Description: Body Cavitation and Contouring; men and women
+Business Description: A daycare for children 0-10. A place to learn, grow, and be healthy.
 
 Business Location: TBD
 
-Professional Title: Business Owner
+Professional Title: Business Owners of T. Toddlers
 
 Slogan: (if applicable) “Snatchology”
 
-Email: cavacouturellc@gmail.com
-IG: @cavacoutre
+Email: tumblingtoldders@gmail.com
+IG: @ttoddlers
 
-Color Scheme: blues, purples, pink
+Color Scheme: blues, greens, yellow, bright colors
 
 Logo: (If applicable) No, but wants one
 
-Page Style: Modern, trendy, artistic
+Page Style: Modern, childish, artistic
 
-A few images: https://instagram.com/cavacouture?igshid=YzAwZjE1ZTI0Zg==
+A few images: in Image folder
