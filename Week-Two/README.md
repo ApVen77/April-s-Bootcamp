@@ -4,7 +4,7 @@
 
 ### The Client Profile is attached.
 
-### _ Use a low-feildity wireframe to sketch. _
+### _ Use a low-fidelity wireframe to sketch. _
 
 Client Profile
 

@@ -1,0 +1,17 @@
+img {
+    border-radius: 50%;
+    border: outset black 5px;
+    height: 250px;
+    width: 250px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    margin-left: 220px;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+p {}
